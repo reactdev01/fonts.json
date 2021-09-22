@@ -1,0 +1,2 @@
+# fonts.json
+fonts
